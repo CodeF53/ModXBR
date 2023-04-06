@@ -9,11 +9,11 @@ If you find any problems, please [make an issue on github](https://github.com/Co
 | - | -
 | [Appleskin](https://modrinth.com/mod/appleskin) | 100%
 | [Artifacts](https://modrinth.com/mod/artifacts) | 0% - Raw PackXBR output
-| [Create](https://modrinth.com/mod/create-fabric) | WIP ~70% - some Model and Connected Texture issues
+| [Create](https://modrinth.com/mod/create-fabric) | WIP ~80% - some Connected Texture issues
 | [Decorative Blocks](https://github.com/lilypuree/Decorative-Blocks) | 99% - rocky dirt makes me want to die
-| [Deeper and Darker](https://modrinth.com/mod/deeperdarker) | 0% - Raw PackXBR output
+| [Deeper and Darker](https://modrinth.com/mod/deeperdarker) | WIP ~20% - All models touched up by hand
 | [Eating Animation](https://modrinth.com/mod/eating-animation) | 100%
-| [Farmers Delight](https://modrinth.com/mod/farmers-delight-fabric) | WIP
+| [Farmers Delight](https://modrinth.com/mod/farmers-delight-fabric) | WIP - Raw PackXBR output
 | [Gravestones](https://modrinth.com/mod/gravestones) | 100%
 | [Patchouli](https://modrinth.com/mod/patchouli) | 100%
 | [Piercing Paxels](https://modrinth.com/mod/piercing-paxels) | 100%
