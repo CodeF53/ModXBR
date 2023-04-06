@@ -11,7 +11,7 @@ If you find any problems, please [make an issue on github](https://github.com/Co
 | [Artifacts](https://modrinth.com/mod/artifacts) | 0% - Raw PackXBR output
 | [Create](https://modrinth.com/mod/create-fabric) | WIP ~80% - some Connected Texture issues
 | [Decorative Blocks](https://github.com/lilypuree/Decorative-Blocks) | 99% - rocky dirt makes me want to die
-| [Deeper and Darker](https://modrinth.com/mod/deeperdarker) | WIP ~20% - All models touched up by hand
+| [Deeper and Darker](https://modrinth.com/mod/deeperdarker) | WIP ~80% - all obvious errors touched up
 | [Eating Animation](https://modrinth.com/mod/eating-animation) | 100%
 | [Farmers Delight](https://modrinth.com/mod/farmers-delight-fabric) | WIP - Raw PackXBR output
 | [Gravestones](https://modrinth.com/mod/gravestones) | 100%
