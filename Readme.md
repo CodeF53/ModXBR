@@ -28,7 +28,7 @@ Because of this, this pack is designed to be used with [Default Dark Mode](https
 Why?
 1. I play on 1080p, so 3x scaling ruins how it looks. [read about why here](https://modrinth.com/resourcepack/3x-font)
 2. Making XBR GUI textures actually look good is a lot of effort
-3. ![Light theme burns my eyes](https://cdn.discordapp.com/attachments/1082142594567516160/1093365057359970324/caption.gif)
+3. ![Light theme burns my eyes](https://i.imgur.com/bNO16V2.gif)
 
 ## Minecraft Version?
 1.19.2 only so far. I only plan on porting forward, when I update my own modded instance.
